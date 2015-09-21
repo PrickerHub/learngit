@@ -1,3 +1,5 @@
 Git is a distributed version control system.
 Git is free software PGL.
-wo shi xin
+Git has a mutable index called stage.
+Git tracks changes.
+hnh
